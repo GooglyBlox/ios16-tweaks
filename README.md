@@ -226,7 +226,6 @@
 | WifiQR | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YellowPages 2 | ❌ | Not activating with TrueCaller. | [MiRO's Repo](https://miro92.com/repo/) |
 | YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
-| YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
 | Zetsu | ✔️ | - | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) |
 
 ## Themes
